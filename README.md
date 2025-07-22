@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack developer
 -------------------
 
-With close to 6 years of professional experience I worked on both web and mobile applications. I enjoy solving complex problems and learning and improving.
+With close to 6 years of professional experience I worked on both web and mobile applications for various clients. I was also a co-founder of Nasi vrtovi marketplace. I enjoy solving complex problems and learning and improving.
 
 * 🌍  I'm based in Zagreb, Croatia
 * ✉️  You can contact me at [marina\_basic@outlook.com](mailto:marina_basic@outlook.com)
